@@ -21,10 +21,11 @@ import { Const_Footer_Text_Line1,
                 </div>
                 <div className=" flex flex-col">
                     <span className="font-light text-[25px] mt-14 text-white/70">
-                       {Const_Footer_Text_Line2}
+                       {/* {Const_Footer_Text_Line2} */}
+                       HNH
                     </span>
                     <span className="font-normal sm:text-[50px] text-[40px]">
-                       {Const_Footer_Email_Text}
+                       {/* {Const_Footer_Email_Text} */}
                     </span>
                 </div>
                 <div className=" flex flex-col mt-14">
