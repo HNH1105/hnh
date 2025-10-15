@@ -49,7 +49,7 @@ export function HeroSection() {
             </main>
           </div>
           <div className="flex items-center justify-center ">
-            <img src="/images/bus-stop-image.svg" className="-mt-24" />
+            {/* <img src="/images/bus-stop-image.svg" className="-mt-24" /> */}
           </div>
         </div>
       </div>
